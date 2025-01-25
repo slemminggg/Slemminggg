@@ -4,8 +4,8 @@
 </div>
 
 ## 🎓 Currently Learning
-- CS50x diving into:
-  - C Programming
+- Low-level programming with C through CS50x
+
 
 ## 💻 Tech Stack
 
@@ -15,13 +15,8 @@
 - ShadCN | TailwindCSS
 - HTML5 | CSS3
 
-## 🌱 Learning Path
-I'm focused on building a strong foundation in computer science while nerding around various web development projects. Currently balancing between:
-- Low-level programming with C through CS50x
-- Modern web development with React/Next.js
-
 ## 📊 GitHub Stats
-2025 Goal: Building a portfolio of public projects that showcase my evolution as a developer.
+- 2025 Goal: Building a portfolio of public projects that showcase my evolution as a developer.
 ---
 <div align="center">
   <i>Always learning, always growing 🚀</i>
