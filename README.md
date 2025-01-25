@@ -7,7 +7,6 @@
 - CS50x diving into:
   - C Programming
 
-
 ## 💻 Tech Stack
 
 **Web Development:**
@@ -23,21 +22,7 @@ I'm focused on building a strong foundation in computer science while nerding ar
 
 ## 📊 GitHub Stats
 2025 Goal: Building a portfolio of public projects that showcase my evolution as a developer.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slemminggg&show_icons=true&theme=dark" />
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/Slemminggg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
 ---
-
 <div align="center">
   <i>Always learning, always growing 🚀</i>
 </div>
