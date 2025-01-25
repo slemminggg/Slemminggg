@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hello World, I'm Lucas!</h1>
-  <h3>Learning, one line of code at a time</h3>
 </div>
 
 ## 🎓 Currently Learning
